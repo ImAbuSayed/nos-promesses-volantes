@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nos-promesses-volantes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Nos Promesses Volantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nos-promesses-volantes/) |
+| **Get License** | [Secure Licensing Rights for Nos Promesses Volantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nos-promesses-volantes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit de Paris, sous les néons qui brillent
+> Mon cœur bat la mesure quand je vois tes pupilles
+> Accélère avec moi, laisse le monde derrière
+> Nos promesses volantes enflamment l'atmosphère
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
