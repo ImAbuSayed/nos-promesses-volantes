@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nos-promesses-volantes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nos Promesses Volantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nos-promesses-volantes/) |
+| **Get License** | [Get a Licensing Quote for Nos Promesses Volantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nos-promesses-volantes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `efa61a9499a1d10242410fc4487abed0c72b2ab0caf25b1df5050b471995f479` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

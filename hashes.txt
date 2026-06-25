@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nos Promesses Volantes
+
+This log tracks the cryptographic history and versioning for the song **Nos Promesses Volantes** (nos-promesses-volantes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T01:35:21.422192 | `v1` | `efa61a9499a1d10242410fc4487abed0c72b2ab0caf25b1df5050b471995f479` | `26f142a838655a447de86e0a3abc7b36c9c943a386f7f182e2eb146ed0924031` | `2026-06-26_nos-promesses-volantes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
